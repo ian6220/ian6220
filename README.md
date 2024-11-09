@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Cisco Packet Tracer          | <a href="https://google.com](https://github.com/ian6220/cisco-packet-tracer-home-network-">home network</a>|
+| Cisco Packet Tracer          | <a href="https://google.com](https://github.com/ian6220/cisco-packet-tracer-home-network-](https://github.com/ian6220/cisco-packet-tracer-home-network-/tree/main">home network</a>|
 | -| <a href=""></a>|
 | -         | -|
 | -    | -|
